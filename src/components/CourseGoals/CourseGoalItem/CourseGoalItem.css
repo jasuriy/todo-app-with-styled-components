@@ -1,0 +1,27 @@
+.goal-item-main {
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 30rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 15px auto;
+  height: 34px;
+  font-weight: 500;
+  background-color: mediumvioletred;
+  color: white;
+  box-shadow: 1px 1px 19px 1px rgba(72, 75, 97, 0.56);
+}
+.delete-btn button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.goal-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
